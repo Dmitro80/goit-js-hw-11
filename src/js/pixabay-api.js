@@ -1,4 +1,4 @@
-const URL = 'https://pixabay.com/api';
+const URL = 'https://pixabay.com/api/';
 const API_KEY = '44774560-6cc9e3fc3beea571d43e1a675';
 
 function searchImages(str) {
