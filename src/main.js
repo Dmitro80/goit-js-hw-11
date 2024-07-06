@@ -27,10 +27,10 @@ function searchHandler(event) {
   if (searchString === '') {
     return iziToast.error({
       message: 'Search field can not be empty!',
-      position: 'topCenter',
+      position: 'topRight',
       timeout: 3000,
       messageColor: '#fafafb',
-      backgroundColor: '#29f20a',
+      backgroundColor: '#B51B1B',
       iconUrl: './error.svg',
       progressBarColor: '#b51b1b',
       maxWidth: '432px',
