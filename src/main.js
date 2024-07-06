@@ -30,7 +30,7 @@ function searchHandler(event) {
       position: 'topCenter',
       timeout: 3000,
       messageColor: '#fafafb',
-      backgroundColor: '#ef4040',
+      backgroundColor: '#29f20a',
       iconUrl: './error.svg',
       progressBarColor: '#b51b1b',
       maxWidth: '432px',
